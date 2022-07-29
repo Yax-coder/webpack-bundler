@@ -1,1 +1,3 @@
-module.exports = "hi there";
+// module.exports = "hi there";
+
+export default "Hi there";
